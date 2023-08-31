@@ -1,0 +1,13 @@
+{
+    "web": {
+      "client_id": "483752841457-f02nmh32k6kerps5e19hpmf6iqk0jqv9.apps.googleusercontent.com",
+      "project_id": "firstoauthproject-393006",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_secret": "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",
+      "redirect_uris": ["http://localhost:4000/auth/google"],
+      "javascript_origins": ["http://localhost:3000"]
+    }
+  }
+  
