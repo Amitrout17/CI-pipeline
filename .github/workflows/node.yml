@@ -17,7 +17,7 @@ jobs:
           node-version: '16'
       - run: npm install
       - run: npm run build --prefix frontend
-  test:
+  testyy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
